@@ -16,3 +16,6 @@ Getting Started
 
 * css :
 * Contains css files
+
+
+![alt text](https://raw.githubusercontent.com/Swadreams/AngularJS-Weather-App/main/Weather.png)
