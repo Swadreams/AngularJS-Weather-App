@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html ng-app="weatherApp">
+    <head>
+        <title>
+            Exercise
+        </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/style.css">        
+
+        <!-- AngularJS -->
+        <script src="https://code.angularjs.org/1.4.9/angular.min.js"></script>
+        <script src="https://code.angularjs.org/1.4.9/angular-route.min.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <header class="header">                
+                Indian Cities Weather                   
+            </header>
+            <div ng-view>
+            </div>
+        </div>
+        <script src="script/app.js">
+        </script>
+        <script src="directives/sunrise-sunset.js">
+        </script>
+        <script src="directives/click-dir.js">
+        </script>
+    </body>
+</html>
