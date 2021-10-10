@@ -1,4 +1,6 @@
-#Exercise on AngularJS Directives - Swapnil Chute (31/01/2019)
+#Exercise on AngularJS Directives - (31/01/2019)
+
+Live Website: https://swadreams.github.io/AngularJS-Weather-App
 
 Getting Started 
 ---------------
